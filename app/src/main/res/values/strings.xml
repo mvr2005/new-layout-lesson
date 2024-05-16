@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">new layout lesson</string>
+    <string name="tex">основной экран</string>
+    <string name="tex1">первый экран</string>
+    <string name="tex2">второй экран</string>
+    <string name="btLayout1">переход на первый экран</string>
+    <string name="btLayout2">переход на второй экран</string>
+    <string name="btLayout">переход на основной экран</string>
+    <string name="btClose">НАЗАД</string>
+</resources>
